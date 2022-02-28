@@ -1,4 +1,4 @@
-// run cmd: npx hardhat run scripts/deploy.js
+// run cmd: npx hardhat run scripts/deploy.js --network rinkeby
 
 const { ethers } = require("hardhat");
 
